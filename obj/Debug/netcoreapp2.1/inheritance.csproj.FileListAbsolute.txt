@@ -1,0 +1,11 @@
+/Users/msmith/source/codeworks/inheritance/obj/Debug/netcoreapp2.1/inheritance.csprojAssemblyReference.cache
+/Users/msmith/source/codeworks/inheritance/obj/Debug/netcoreapp2.1/inheritance.csproj.CoreCompileInputs.cache
+/Users/msmith/source/codeworks/inheritance/obj/Debug/netcoreapp2.1/inheritance.AssemblyInfoInputs.cache
+/Users/msmith/source/codeworks/inheritance/obj/Debug/netcoreapp2.1/inheritance.AssemblyInfo.cs
+/Users/msmith/source/codeworks/inheritance/bin/Debug/netcoreapp2.1/inheritance.deps.json
+/Users/msmith/source/codeworks/inheritance/bin/Debug/netcoreapp2.1/inheritance.runtimeconfig.json
+/Users/msmith/source/codeworks/inheritance/bin/Debug/netcoreapp2.1/inheritance.runtimeconfig.dev.json
+/Users/msmith/source/codeworks/inheritance/bin/Debug/netcoreapp2.1/inheritance.dll
+/Users/msmith/source/codeworks/inheritance/bin/Debug/netcoreapp2.1/inheritance.pdb
+/Users/msmith/source/codeworks/inheritance/obj/Debug/netcoreapp2.1/inheritance.dll
+/Users/msmith/source/codeworks/inheritance/obj/Debug/netcoreapp2.1/inheritance.pdb
